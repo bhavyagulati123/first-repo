@@ -1,4 +1,4 @@
-// this is contact page of main branch
+//this is contactpage
 export default function ContactPage() {
   return (
     <div>
