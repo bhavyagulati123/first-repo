@@ -1,4 +1,4 @@
-//this is contactpage hello sir
+//this is contactpage bye sir
 export default function ContactPage() {
   return (
     <div>
